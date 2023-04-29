@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+}
+
+.card {
+    width: 30%;
+    justify-content: space-evenly;
+    margin: auto;
+    align-items: center;
+}
+.card h3 {
+    background-color:gray;
+
+}
+.card p {
+    color:black;
+    border-color: gray;
+}
+.card h4{
+    background-color:darkgray;
+    color:black;
+}
+
+
